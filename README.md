@@ -1,5 +1,5 @@
 # anyconnect-routes
 
-*deprecated*
+**deprecated**
 
-some openconnect/anyconnect routes to reach google,twitter,facebook,dropbox and more
+~~some openconnect/anyconnect routes to reach google,twitter,facebook,dropbox and more~~
